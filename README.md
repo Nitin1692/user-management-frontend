@@ -1,4 +1,4 @@
-# Frontend Project Name
+# User Management
 
 This is the frontend for the User Management. It is built with React.js and interacts with the backend API to manage users.
 
