@@ -23,11 +23,13 @@ This is the frontend for the User Management. It is built with React.js and inte
    git clone https://github.com/yourusername/frontend-repo.git
    cd frontend-repo
    ```
+
 2. Install dependencies:
 
     ```bash
     npm install
     ```
+    
 3. Start the development server:
 
     ```bash
