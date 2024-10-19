@@ -20,8 +20,8 @@ This is the frontend for the User Management. It is built with React.js and inte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/frontend-repo.git
-   cd frontend-repo
+   git clone https://github.com/Nitin1692/user-management-frontend
+   cd folder-name
    ```
 
 2. Install dependencies:
@@ -29,7 +29,7 @@ This is the frontend for the User Management. It is built with React.js and inte
     ```bash
     npm install
     ```
-    
+
 3. Start the development server:
 
     ```bash
